@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LearnComposeReenu</string>
+    //Start screen
+    <string name="order_cupcake">Order Cupcakes</string>
+    <string name="three_cupcakes">Three Cupcakes</string>
+    <string name="six_cupcakes">Six Cupcakes</string>
+    <string name="twelve_cupcakes">Twelve Cupcakes</string>
+    //Choose Flavour
+    <string name="vanilla">Vanilla</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="red_velvet">Red Velvet</string>
+    <string name="salted_caramel">Salted Caramel</string>
+    <string name="coffee">Coffee</string>
+    <string-array name="flavours">
+        <item>@string/vanilla</item>
+        <item>@string/chocolate</item>
+        <item>@string/red_velvet</item>
+        <item>@string/salted_caramel</item>
+        <item>@string/coffee</item>
+    </string-array>
+    //Summary screen
+    <string name="submit">"Submit"</string>
+    <string name="view_orders">View all orders</string>
+</resources>
